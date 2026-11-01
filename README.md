@@ -15,7 +15,7 @@ Predict whether a breast tumour is **Malignant (M)** or **Benign (B)** using mea
 - **Preprocessing:** StandardScaler fitted on training data only, saved as `model/scaler.pkl`.
 
 ## c. GitHub Repository Link
-- GitHub: `<add repo link here>`
+- GitHub: `https://github.com/mukund-bits/ML-Assignment2`
 - Streamlit App: `<add app link here>`
 
 ## d. Models Used
