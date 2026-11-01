@@ -16,7 +16,7 @@ Predict whether a breast tumour is **Malignant (M)** or **Benign (B)** using mea
 
 ## c. GitHub Repository Link
 - GitHub: `https://github.com/mukund-bits/ML-Assignment2`
-- Streamlit App: `<add app link here>`
+- Streamlit App: `https://ml-assignment2-2026aj05489.streamlit.app/`
 
 ## d. Models Used
 1. Logistic Regression
